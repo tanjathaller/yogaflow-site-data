@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-04-22T19:18:23.309Z",
+  "syncedAt": "2026-04-22T20:58:57.122Z",
   "courses": [
     {
       "id": "7e66e6f3-c63a-42ba-95e4-ea201ebb7e9e",
@@ -53,7 +53,7 @@
       "location": "Gagelweg",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 3,
+      "remainingSpots": 2,
       "sortOrder": 40,
       "startsOn": "2026-05-12"
     },
@@ -100,6 +100,20 @@
       "startsOn": "2026-05-27"
     },
     {
+      "id": "85ad90eb-e21b-45ae-8d73-58038c502f73",
+      "type": "internal",
+      "title": "Yoga am Dienstag",
+      "description": "Vinyasa für Fortgeschrittene",
+      "day": "02.06.2026",
+      "time": "18:00–19:30 (90 Min.)",
+      "location": "Gagelweg",
+      "bookingStatus": "available",
+      "price": "12,00 €",
+      "remainingSpots": 7,
+      "sortOrder": 80,
+      "startsOn": "2026-06-02"
+    },
+    {
       "id": "f2f1dfcb-61eb-4b94-86db-61539a60ea96",
       "type": "internal",
       "title": "Yoga am Mittwoch",
@@ -109,9 +123,93 @@
       "location": "Neuss",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 5,
-      "sortOrder": 80,
+      "remainingSpots": 4,
+      "sortOrder": 90,
       "startsOn": "2026-06-03"
+    },
+    {
+      "id": "e9a23ef7-5424-478c-9a02-8bf2ad6705e3",
+      "type": "internal",
+      "title": "Yoga am Dienstag",
+      "description": "Vinyasa für Fortgeschrittene",
+      "day": "09.06.2026",
+      "time": "18:00–19:30 (90 Min.)",
+      "location": "Gagelweg",
+      "bookingStatus": "available",
+      "price": "12,00 €",
+      "remainingSpots": 7,
+      "sortOrder": 100,
+      "startsOn": "2026-06-09"
+    },
+    {
+      "id": "5617adc0-3247-438f-99ce-70bc36e871b3",
+      "type": "internal",
+      "title": "Yoga am Dienstag",
+      "description": "Vinyasa für Fortgeschrittene",
+      "day": "16.06.2026",
+      "time": "18:00–19:30 (90 Min.)",
+      "location": "Gagelweg",
+      "bookingStatus": "available",
+      "price": "12,00 €",
+      "remainingSpots": 6,
+      "sortOrder": 110,
+      "startsOn": "2026-06-16"
+    },
+    {
+      "id": "8f600c58-3a57-4506-98fc-f2d4ef08e4a8",
+      "type": "internal",
+      "title": "Yoga am Mittwoch",
+      "description": "Hatha/Vinyasa für alle",
+      "day": "17.06.2026",
+      "time": "18:00–19:30 (90 Min.)",
+      "location": "Gagelweg",
+      "bookingStatus": "available",
+      "price": "12,00 €",
+      "remainingSpots": 6,
+      "sortOrder": 120,
+      "startsOn": "2026-06-17"
+    },
+    {
+      "id": "33f3a7f7-57b2-45e2-be39-f62dc171bb84",
+      "type": "internal",
+      "title": "Yoga am Dienstag",
+      "description": "Vinyasa für Fortgeschrittene",
+      "day": "23.06.2026",
+      "time": "18:00–19:30 (90 Min.)",
+      "location": "Gagelweg",
+      "bookingStatus": "available",
+      "price": "12,00 €",
+      "remainingSpots": 6,
+      "sortOrder": 130,
+      "startsOn": "2026-06-23"
+    },
+    {
+      "id": "2a877fe9-c5d5-4075-b496-98fd3d9956c3",
+      "type": "internal",
+      "title": "Yoga am Mittwoch",
+      "description": "Hatha/Vinyasa für alle",
+      "day": "24.06.2026",
+      "time": "18:00–19:30 (90 Min.)",
+      "location": "Gagelweg",
+      "bookingStatus": "available",
+      "price": "12,00 €",
+      "remainingSpots": 6,
+      "sortOrder": 140,
+      "startsOn": "2026-06-24"
+    },
+    {
+      "id": "30045a46-204d-43e6-8d33-90c977df486f",
+      "type": "internal",
+      "title": "Yoga am Dienstag",
+      "description": "Vinyasa für Fortgeschrittene",
+      "day": "30.06.2026",
+      "time": "18:00–19:30 (90 Min.)",
+      "location": "Gagelweg",
+      "bookingStatus": "available",
+      "price": "12,00 €",
+      "remainingSpots": 6,
+      "sortOrder": 150,
+      "startsOn": "2026-06-30"
     }
   ]
 }
