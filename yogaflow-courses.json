@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-04-23T02:50:34.460Z",
+  "syncedAt": "2026-04-23T05:33:46.663Z",
   "courses": [
     {
       "id": "7e66e6f3-c63a-42ba-95e4-ea201ebb7e9e",
@@ -109,7 +109,7 @@
       "location": "Gagelweg",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 7,
+      "remainingSpots": 4,
       "sortOrder": 80,
       "startsOn": "2026-06-02"
     },
@@ -123,7 +123,7 @@
       "location": "Neuss",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 3,
+      "remainingSpots": 2,
       "sortOrder": 90,
       "startsOn": "2026-06-03"
     },
@@ -137,7 +137,7 @@
       "location": "Gagelweg",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 6,
+      "remainingSpots": 2,
       "sortOrder": 100,
       "startsOn": "2026-06-09"
     },
@@ -151,7 +151,7 @@
       "location": "Gagelweg",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 5,
+      "remainingSpots": 1,
       "sortOrder": 110,
       "startsOn": "2026-06-16"
     },
@@ -165,7 +165,7 @@
       "location": "Gagelweg",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 5,
+      "remainingSpots": 2,
       "sortOrder": 120,
       "startsOn": "2026-06-17"
     },
@@ -179,7 +179,7 @@
       "location": "Gagelweg",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 5,
+      "remainingSpots": 1,
       "sortOrder": 130,
       "startsOn": "2026-06-23"
     },
@@ -193,7 +193,7 @@
       "location": "Gagelweg",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 5,
+      "remainingSpots": 3,
       "sortOrder": 140,
       "startsOn": "2026-06-24"
     },
@@ -207,7 +207,7 @@
       "location": "Gagelweg",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 5,
+      "remainingSpots": 2,
       "sortOrder": 150,
       "startsOn": "2026-06-30"
     }
