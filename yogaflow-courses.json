@@ -1,20 +1,6 @@
 {
-  "syncedAt": "2026-04-28T16:14:32.001Z",
+  "syncedAt": "2026-04-28T20:55:24.599Z",
   "courses": [
-    {
-      "id": "7e66e6f3-c63a-42ba-95e4-ea201ebb7e9e",
-      "type": "internal",
-      "title": "Yoga am Dienstag",
-      "description": "Vinyasa für Fortgeschrittene",
-      "day": "28.04.2026",
-      "time": "18:00–19:30 (90 Min.)",
-      "location": "Gagelweg",
-      "bookingStatus": "full",
-      "price": "12,00 €",
-      "remainingSpots": 0,
-      "sortOrder": 10,
-      "startsOn": "2026-04-28"
-    },
     {
       "id": "e90232dd-0812-4010-bba4-1489da3bfc89",
       "type": "internal",
@@ -26,7 +12,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 20,
+      "sortOrder": 10,
       "startsOn": "2026-04-29"
     },
     {
@@ -40,7 +26,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 30,
+      "sortOrder": 20,
       "startsOn": "2026-05-05"
     },
     {
@@ -54,7 +40,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 2,
-      "sortOrder": 40,
+      "sortOrder": 30,
       "startsOn": "2026-05-12"
     },
     {
@@ -68,7 +54,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 50,
+      "sortOrder": 40,
       "startsOn": "2026-05-13"
     },
     {
@@ -82,7 +68,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 3,
-      "sortOrder": 60,
+      "sortOrder": 50,
       "startsOn": "2026-05-26"
     },
     {
@@ -96,7 +82,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 1,
-      "sortOrder": 70,
+      "sortOrder": 60,
       "startsOn": "2026-05-27"
     },
     {
@@ -107,10 +93,10 @@
       "day": "02.06.2026",
       "time": "18:00–19:30 (90 Min.)",
       "location": "Gagelweg",
-      "bookingStatus": "available",
+      "bookingStatus": "full",
       "price": "12,00 €",
-      "remainingSpots": 1,
-      "sortOrder": 80,
+      "remainingSpots": 0,
+      "sortOrder": 70,
       "startsOn": "2026-06-02"
     },
     {
@@ -124,7 +110,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 90,
+      "sortOrder": 80,
       "startsOn": "2026-06-03"
     },
     {
@@ -138,7 +124,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 100,
+      "sortOrder": 90,
       "startsOn": "2026-06-09"
     },
     {
@@ -152,7 +138,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 110,
+      "sortOrder": 100,
       "startsOn": "2026-06-16"
     },
     {
@@ -166,7 +152,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 120,
+      "sortOrder": 110,
       "startsOn": "2026-06-17"
     },
     {
@@ -180,7 +166,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 130,
+      "sortOrder": 120,
       "startsOn": "2026-06-23"
     },
     {
@@ -194,7 +180,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 140,
+      "sortOrder": 130,
       "startsOn": "2026-06-24"
     },
     {
@@ -208,7 +194,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 150,
+      "sortOrder": 140,
       "startsOn": "2026-06-30"
     }
   ]
