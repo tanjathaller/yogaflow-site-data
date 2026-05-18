@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-05-18T12:34:36.974Z",
+  "syncedAt": "2026-05-18T16:26:43.302Z",
   "courses": [
     {
       "id": "51f56177-d67c-4b49-9154-009bcef0e046",
@@ -142,6 +142,34 @@
       "startsOn": "2026-06-30"
     },
     {
+      "id": "6fb5de10-582d-4193-9676-b67bd61ffb3c",
+      "type": "internal",
+      "title": "Yoga am Mittwoch",
+      "description": "Hatha/Vinyasa für alle",
+      "day": "01.07.2026",
+      "time": "18:00–19:30 (90 Min.)",
+      "location": "Gagelweg",
+      "bookingStatus": "available",
+      "price": "12,00 €",
+      "remainingSpots": 8,
+      "sortOrder": 110,
+      "startsOn": "2026-07-01"
+    },
+    {
+      "id": "8953f8b5-e0eb-4a0c-ad01-f61e2e56147b",
+      "type": "internal",
+      "title": "Yoga am Mittwoch",
+      "description": "Hatha/Vinyasa für alle",
+      "day": "08.07.2026",
+      "time": "18:00–19:30 (90 Min.)",
+      "location": "Gagelweg",
+      "bookingStatus": "available",
+      "price": "12,00 €",
+      "remainingSpots": 8,
+      "sortOrder": 120,
+      "startsOn": "2026-07-08"
+    },
+    {
       "id": "d6058a79-91ac-4d04-84c5-2f747cb36330",
       "type": "internal",
       "title": "YOGA & AYURVEDA (Tagesrereat)",
@@ -152,7 +180,7 @@
       "bookingStatus": "available",
       "price": "99,00 €",
       "remainingSpots": 2,
-      "sortOrder": 110,
+      "sortOrder": 130,
       "startsOn": "2026-07-12"
     }
   ]
