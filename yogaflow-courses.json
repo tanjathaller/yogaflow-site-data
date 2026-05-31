@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-05-31T18:05:08.842Z",
+  "syncedAt": "2026-05-31T20:12:18.111Z",
   "courses": [
     {
       "id": "85ad90eb-e21b-45ae-8d73-58038c502f73",
@@ -145,12 +145,12 @@
       "id": "d6058a79-91ac-4d04-84c5-2f747cb36330",
       "type": "internal",
       "title": "YOGA & AYURVEDA (Tagesrereat)",
-      "description": "Gemeinsam mit der kreativen Ayurveda-Köchin Monika im wunderschönen Celebrate Yoga in Leichlingen. \nNoch zum Frühbucherpreis! Ab 01.06.2026 129,- Euro.",
+      "description": "Gemeinsam mit der kreativen Ayurveda-Köchin Monika im wunderschönen Celebrate Yoga in Leichlingen.",
       "day": "12.07.2026",
       "time": "09:00–17:00 (480 Min.)",
       "location": "Celebrate Yoga, Leichlingen",
       "bookingStatus": "available",
-      "price": "99,00 €",
+      "price": "129,00 €",
       "remainingSpots": 1,
       "sortOrder": 110,
       "startsOn": "2026-07-12"
