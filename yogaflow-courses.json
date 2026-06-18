@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-18T19:11:41.945Z",
+  "syncedAt": "2026-06-18T20:02:38.544Z",
   "courses": [
     {
       "id": "33f3a7f7-57b2-45e2-be39-f62dc171bb84",
@@ -93,9 +93,9 @@
       "day": "12.07.2026",
       "time": "09:00–17:00 (480 Min.)",
       "location": "Celebrate Yoga, Leichlingen",
-      "bookingStatus": "available",
+      "bookingStatus": "full",
       "price": "129,00 €",
-      "remainingSpots": 1,
+      "remainingSpots": 0,
       "sortOrder": 70,
       "startsOn": "2026-07-12"
     },
