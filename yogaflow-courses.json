@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-22T10:01:37.387Z",
+  "syncedAt": "2026-06-22T11:01:39.182Z",
   "courses": [
     {
       "id": "33f3a7f7-57b2-45e2-be39-f62dc171bb84",
@@ -109,7 +109,7 @@
       "location": "Gagelweg",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 6,
+      "remainingSpots": 5,
       "sortOrder": 80,
       "startsOn": "2026-07-14"
     },
@@ -123,9 +123,65 @@
       "location": "Gagelweg",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 2,
+      "remainingSpots": 3,
       "sortOrder": 90,
       "startsOn": "2026-07-15"
+    },
+    {
+      "id": "0c7b9818-aa16-4b15-b40b-2eecd2cb78f6",
+      "type": "internal",
+      "title": "Yoga am Mittwoch",
+      "description": "Hatha/Vinyasa für alle",
+      "day": "22.07.2026",
+      "time": "18:00–19:30 (90 Min.)",
+      "location": "Gagelweg oder Holunderweg",
+      "bookingStatus": "available",
+      "price": "12,00 €",
+      "remainingSpots": 9,
+      "sortOrder": 100,
+      "startsOn": "2026-07-22"
+    },
+    {
+      "id": "d6bf5346-0c83-467c-8db3-a1aac93317be",
+      "type": "internal",
+      "title": "Yoga am Dienstag",
+      "description": "Vinyasa für Fortgeschrittene",
+      "day": "28.07.2026",
+      "time": "18:00–19:30 (90 Min.)",
+      "location": "Gagelweg oder Holunderweg",
+      "bookingStatus": "available",
+      "price": "12,00 €",
+      "remainingSpots": 9,
+      "sortOrder": 110,
+      "startsOn": "2026-07-28"
+    },
+    {
+      "id": "a29faec2-a6d1-41ae-a4f6-93e1cd9c268a",
+      "type": "internal",
+      "title": "Yoga am Mittwoch",
+      "description": "Hatha/Vinyasa für alle",
+      "day": "29.07.2026",
+      "time": "18:00–19:30 (90 Min.)",
+      "location": "Gagelweg oder Holunderweg",
+      "bookingStatus": "available",
+      "price": "12,00 €",
+      "remainingSpots": 9,
+      "sortOrder": 120,
+      "startsOn": "2026-07-29"
+    },
+    {
+      "id": "6fadbf2e-2f6a-40e8-8206-5f5a3a9b43ee",
+      "type": "internal",
+      "title": "YOGA UNTER FREIEM HIMMEL",
+      "description": "Im Garten, im Park oder am Rhein....\nGemeinsam bewegen, durchatmen und zur Ruhe kommen.\nEgal, ob Du Anfänger bist oder schon Erfahrungen hast - du bist herzlich willkommen.",
+      "day": "04.08.2026",
+      "time": "18:00–19:30 (90 Min.)",
+      "location": "wird noch bekannt gegeben",
+      "bookingStatus": "available",
+      "price": "12,00 €",
+      "remainingSpots": 16,
+      "sortOrder": 130,
+      "startsOn": "2026-08-04"
     }
   ]
 }
