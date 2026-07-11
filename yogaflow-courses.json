@@ -1,6 +1,20 @@
 {
-  "syncedAt": "2026-07-11T22:11:46.115Z",
+  "syncedAt": "2026-07-11T23:01:55.632Z",
   "courses": [
+    {
+      "id": "d6058a79-91ac-4d04-84c5-2f747cb36330",
+      "type": "internal",
+      "title": "YOGA & AYURVEDA (Tagesrereat)",
+      "description": "Gemeinsam mit der kreativen Ayurveda-Köchin Monika im wunderschönen Celebrate Yoga in Leichlingen.",
+      "day": "12.07.2026",
+      "time": "09:00–17:00 (480 Min.)",
+      "location": "Celebrate Yoga, Leichlingen",
+      "bookingStatus": "full",
+      "price": "129,00 €",
+      "remainingSpots": 0,
+      "sortOrder": 10,
+      "startsOn": "2026-07-12"
+    },
     {
       "id": "dff703e3-30bc-40b1-801c-4f3f5ff1a851",
       "type": "internal",
@@ -12,7 +26,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 3,
-      "sortOrder": 10,
+      "sortOrder": 20,
       "startsOn": "2026-07-14"
     },
     {
@@ -26,7 +40,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 1,
-      "sortOrder": 20,
+      "sortOrder": 30,
       "startsOn": "2026-07-15"
     },
     {
@@ -40,7 +54,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 1,
-      "sortOrder": 30,
+      "sortOrder": 40,
       "startsOn": "2026-07-22"
     },
     {
@@ -54,7 +68,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 2,
-      "sortOrder": 40,
+      "sortOrder": 50,
       "startsOn": "2026-07-28"
     },
     {
@@ -68,7 +82,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 1,
-      "sortOrder": 50,
+      "sortOrder": 60,
       "startsOn": "2026-07-29"
     },
     {
@@ -82,7 +96,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 4,
-      "sortOrder": 60,
+      "sortOrder": 70,
       "startsOn": "2026-08-04"
     },
     {
@@ -96,7 +110,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 13,
-      "sortOrder": 70,
+      "sortOrder": 80,
       "startsOn": "2026-08-09"
     },
     {
@@ -110,7 +124,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 10,
-      "sortOrder": 80,
+      "sortOrder": 90,
       "startsOn": "2026-08-14"
     }
   ]
