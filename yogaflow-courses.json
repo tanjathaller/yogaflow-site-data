@@ -1,6 +1,20 @@
 {
-  "syncedAt": "2026-07-14T22:27:35.016Z",
+  "syncedAt": "2026-07-14T23:01:50.286Z",
   "courses": [
+    {
+      "id": "7b4a7f0e-21c4-4268-8176-adb09b10bf90",
+      "type": "internal",
+      "title": "Yoga am Mittwoch",
+      "description": "Hatha/Vinyasa für alle",
+      "day": "15.07.2026",
+      "time": "18:00–19:30 (90 Min.)",
+      "location": "Gagelweg",
+      "bookingStatus": "available",
+      "price": "12,00 €",
+      "remainingSpots": 2,
+      "sortOrder": 10,
+      "startsOn": "2026-07-15"
+    },
     {
       "id": "0c7b9818-aa16-4b15-b40b-2eecd2cb78f6",
       "type": "internal",
@@ -12,7 +26,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 1,
-      "sortOrder": 10,
+      "sortOrder": 20,
       "startsOn": "2026-07-22"
     },
     {
@@ -26,7 +40,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 2,
-      "sortOrder": 20,
+      "sortOrder": 30,
       "startsOn": "2026-07-28"
     },
     {
@@ -40,7 +54,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 1,
-      "sortOrder": 30,
+      "sortOrder": 40,
       "startsOn": "2026-07-29"
     },
     {
@@ -54,7 +68,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 5,
-      "sortOrder": 40,
+      "sortOrder": 50,
       "startsOn": "2026-08-04"
     },
     {
@@ -68,7 +82,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 13,
-      "sortOrder": 50,
+      "sortOrder": 60,
       "startsOn": "2026-08-09"
     },
     {
@@ -82,7 +96,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 10,
-      "sortOrder": 60,
+      "sortOrder": 70,
       "startsOn": "2026-08-14"
     }
   ]
