@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-15T14:16:32.192Z",
+  "syncedAt": "2026-07-15T15:01:54.452Z",
   "courses": [
     {
       "id": "7b4a7f0e-21c4-4268-8176-adb09b10bf90",
@@ -11,7 +11,7 @@
       "location": "Gagelweg",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 2,
+      "remainingSpots": 1,
       "sortOrder": 10,
       "startsOn": "2026-07-15"
     },
@@ -23,9 +23,9 @@
       "day": "22.07.2026",
       "time": "18:00–19:30 (90 Min.)",
       "location": "Gagelweg oder Holunderweg",
-      "bookingStatus": "available",
+      "bookingStatus": "full",
       "price": "12,00 €",
-      "remainingSpots": 1,
+      "remainingSpots": 0,
       "sortOrder": 20,
       "startsOn": "2026-07-22"
     },
@@ -51,9 +51,9 @@
       "day": "29.07.2026",
       "time": "18:00–19:30 (90 Min.)",
       "location": "Gagelweg oder Holunderweg",
-      "bookingStatus": "available",
+      "bookingStatus": "full",
       "price": "12,00 €",
-      "remainingSpots": 1,
+      "remainingSpots": 0,
       "sortOrder": 40,
       "startsOn": "2026-07-29"
     },
