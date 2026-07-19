@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-19T19:01:31.061Z",
+  "syncedAt": "2026-07-19T19:37:54.803Z",
   "courses": [
     {
       "id": "0c7b9818-aa16-4b15-b40b-2eecd2cb78f6",
@@ -67,7 +67,7 @@
       "location": "wird kurzfristig bekannt gegeben",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 13,
+      "remainingSpots": 12,
       "sortOrder": 50,
       "startsOn": "2026-08-09"
     },
