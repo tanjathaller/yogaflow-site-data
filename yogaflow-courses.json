@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-30T08:01:18.239Z",
+  "syncedAt": "2026-07-30T09:01:23.444Z",
   "courses": [
     {
       "id": "6fadbf2e-2f6a-40e8-8206-5f5a3a9b43ee",
@@ -67,7 +67,7 @@
       "location": "Gagelweg oder draußen",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 3,
+      "remainingSpots": 2,
       "sortOrder": 50,
       "startsOn": "2026-08-19"
     },
