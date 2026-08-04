@@ -1,20 +1,6 @@
 {
-  "syncedAt": "2026-08-04T17:09:45.451Z",
+  "syncedAt": "2026-08-04T18:01:34.939Z",
   "courses": [
-    {
-      "id": "6fadbf2e-2f6a-40e8-8206-5f5a3a9b43ee",
-      "type": "internal",
-      "title": "YOGA UNTER FREIEM HIMMEL",
-      "description": "Im Garten, im Park oder am Rhein....\nGemeinsam bewegen, durchatmen und zur Ruhe kommen.\nEgal, ob Du Anfänger bist oder schon Erfahrungen hast - du bist herzlich willkommen.",
-      "day": "04.08.2026",
-      "time": "18:00–19:30 (90 Min.)",
-      "location": "wird kurzfristig bekannt gegeben",
-      "bookingStatus": "available",
-      "price": "12,00 €",
-      "remainingSpots": 4,
-      "sortOrder": 10,
-      "startsOn": "2026-08-04"
-    },
     {
       "id": "b0681267-76d6-4269-aeff-6cda08e3b3f7",
       "type": "internal",
@@ -26,7 +12,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 13,
-      "sortOrder": 20,
+      "sortOrder": 10,
       "startsOn": "2026-08-09"
     },
     {
@@ -40,7 +26,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 10,
-      "sortOrder": 30,
+      "sortOrder": 20,
       "startsOn": "2026-08-14"
     },
     {
@@ -54,7 +40,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 6,
-      "sortOrder": 40,
+      "sortOrder": 30,
       "startsOn": "2026-08-18"
     },
     {
@@ -68,7 +54,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 2,
-      "sortOrder": 50,
+      "sortOrder": 40,
       "startsOn": "2026-08-19"
     },
     {
@@ -82,7 +68,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 1,
-      "sortOrder": 60,
+      "sortOrder": 50,
       "startsOn": "2026-09-02"
     },
     {
@@ -96,7 +82,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 4,
-      "sortOrder": 70,
+      "sortOrder": 60,
       "startsOn": "2026-09-08"
     },
     {
@@ -110,7 +96,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 3,
-      "sortOrder": 80,
+      "sortOrder": 70,
       "startsOn": "2026-09-22"
     },
     {
@@ -124,7 +110,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 2,
-      "sortOrder": 90,
+      "sortOrder": 80,
       "startsOn": "2026-09-23"
     },
     {
@@ -138,7 +124,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 1,
-      "sortOrder": 100,
+      "sortOrder": 90,
       "startsOn": "2026-09-30"
     }
   ]
