@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-09T15:01:20.049Z",
+  "syncedAt": "2026-08-09T15:54:03.868Z",
   "courses": [
     {
       "id": "50be32c9-75e1-43a1-8077-fde40550a941",
@@ -18,14 +18,14 @@
     {
       "id": "26609d5c-e126-4039-a403-43eb85812252",
       "type": "internal",
-      "title": "Yoga am Dienstag",
-      "description": "VINYASA FÜR FORTGESCHRITTENE",
+      "title": "YOGA UNTER FREIEM HIMMEL",
+      "description": "Im Garten, im Park oder am Rhein....\nGemeinsam bewegen, durchatmen und zur Ruhe kommen.\nEgal, ob Du Anfänger bist oder schon Erfahrungen hast - du bist herzlich willkommen.",
       "day": "18.08.2026",
       "time": "18:00–19:30 (90 Min.)",
-      "location": "Gagelweg oder draußen",
+      "location": "wird kurzfristig bekannt gegeben",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 6,
+      "remainingSpots": 9,
       "sortOrder": 20,
       "startsOn": "2026-08-18"
     },
