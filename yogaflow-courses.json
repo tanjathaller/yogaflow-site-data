@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-12T05:10:30.579Z",
+  "syncedAt": "2026-08-12T06:01:19.585Z",
   "courses": [
     {
       "id": "50be32c9-75e1-43a1-8077-fde40550a941",
@@ -51,9 +51,9 @@
       "day": "02.09.2026",
       "time": "18:00–19:30 (90 Min.)",
       "location": "Gagelweg oder draußen",
-      "bookingStatus": "full",
+      "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 0,
+      "remainingSpots": 1,
       "sortOrder": 40,
       "startsOn": "2026-09-02"
     },
