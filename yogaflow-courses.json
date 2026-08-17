@@ -1,20 +1,6 @@
 {
-  "syncedAt": "2026-08-17T21:45:56.707Z",
+  "syncedAt": "2026-08-17T22:01:24.576Z",
   "courses": [
-    {
-      "id": "26609d5c-e126-4039-a403-43eb85812252",
-      "type": "internal",
-      "title": "YOGA UNTER FREIEM HIMMEL",
-      "description": "Im Garten, im Park oder am Rhein....\nGemeinsam bewegen, durchatmen und zur Ruhe kommen.\nEgal, ob Du Anfänger bist oder schon Erfahrungen hast - du bist herzlich willkommen.",
-      "day": "18.08.2026",
-      "time": "18:00–19:30 (90 Min.)",
-      "location": "wird kurzfristig bekannt gegeben",
-      "bookingStatus": "available",
-      "price": "12,00 €",
-      "remainingSpots": 9,
-      "sortOrder": 10,
-      "startsOn": "2026-08-18"
-    },
     {
       "id": "fa73d88e-8f2f-47aa-b3db-8dda07e17f64",
       "type": "internal",
@@ -26,7 +12,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 4,
-      "sortOrder": 20,
+      "sortOrder": 10,
       "startsOn": "2026-08-19"
     },
     {
@@ -40,7 +26,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 1,
-      "sortOrder": 30,
+      "sortOrder": 20,
       "startsOn": "2026-09-02"
     },
     {
@@ -54,7 +40,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 4,
-      "sortOrder": 40,
+      "sortOrder": 30,
       "startsOn": "2026-09-08"
     },
     {
@@ -68,7 +54,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 3,
-      "sortOrder": 50,
+      "sortOrder": 40,
       "startsOn": "2026-09-22"
     },
     {
@@ -82,7 +68,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 1,
-      "sortOrder": 60,
+      "sortOrder": 50,
       "startsOn": "2026-09-23"
     },
     {
@@ -96,7 +82,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 70,
+      "sortOrder": 60,
       "startsOn": "2026-09-30"
     }
   ]
