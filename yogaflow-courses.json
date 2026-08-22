@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-22T08:01:16.361Z",
+  "syncedAt": "2026-08-22T08:53:15.397Z",
   "courses": [
     {
       "id": "b2d89cc5-189b-42c0-8c6d-ab67b6685c2c",
@@ -9,9 +9,9 @@
       "day": "02.09.2026",
       "time": "18:00–19:30 (90 Min.)",
       "location": "Gagelweg oder draußen",
-      "bookingStatus": "available",
+      "bookingStatus": "full",
       "price": "12,00 €",
-      "remainingSpots": 1,
+      "remainingSpots": 0,
       "sortOrder": 10,
       "startsOn": "2026-09-02"
     },
@@ -25,23 +25,9 @@
       "location": "Gagelweg",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 4,
+      "remainingSpots": 3,
       "sortOrder": 20,
       "startsOn": "2026-09-08"
-    },
-    {
-      "id": "14d9d36b-ad84-4a83-9059-e543e4abc762",
-      "type": "internal",
-      "title": "Yoga am Dienstag",
-      "description": "Vinyasa für Fortgeschrittene",
-      "day": "22.09.2026",
-      "time": "18:00–19:30 (90 Min.)",
-      "location": "Gagelweg",
-      "bookingStatus": "available",
-      "price": "12,00 €",
-      "remainingSpots": 3,
-      "sortOrder": 30,
-      "startsOn": "2026-09-22"
     },
     {
       "id": "eb8ce894-fff5-4c63-a486-0f6beadef51a",
@@ -54,7 +40,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 1,
-      "sortOrder": 40,
+      "sortOrder": 30,
       "startsOn": "2026-09-23"
     },
     {
@@ -68,7 +54,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 50,
+      "sortOrder": 40,
       "startsOn": "2026-09-30"
     }
   ]
