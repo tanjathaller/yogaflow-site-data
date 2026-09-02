@@ -1,20 +1,6 @@
 {
-  "syncedAt": "2026-09-02T17:01:43.041Z",
+  "syncedAt": "2026-09-02T18:01:36.057Z",
   "courses": [
-    {
-      "id": "b2d89cc5-189b-42c0-8c6d-ab67b6685c2c",
-      "type": "internal",
-      "title": "Yoga am Mittwoch",
-      "description": "Vinyasa/Hatha Yoga für alle Level",
-      "day": "02.09.2026",
-      "time": "18:00–19:30 (90 Min.)",
-      "location": "Gagelweg oder draußen",
-      "bookingStatus": "full",
-      "price": "12,00 €",
-      "remainingSpots": 0,
-      "sortOrder": 10,
-      "startsOn": "2026-09-02"
-    },
     {
       "id": "0b53bf0a-1c25-4b78-b929-286c511d324e",
       "type": "internal",
@@ -26,7 +12,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 2,
-      "sortOrder": 20,
+      "sortOrder": 10,
       "startsOn": "2026-09-08"
     },
     {
@@ -40,7 +26,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 30,
+      "sortOrder": 20,
       "startsOn": "2026-09-30"
     },
     {
@@ -54,7 +40,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 5,
-      "sortOrder": 40,
+      "sortOrder": 30,
       "startsOn": "2026-10-07"
     },
     {
@@ -68,7 +54,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 8,
-      "sortOrder": 50,
+      "sortOrder": 40,
       "startsOn": "2026-10-13"
     }
   ]
