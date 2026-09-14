@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-14T16:01:55.667Z",
+  "syncedAt": "2026-09-14T17:01:49.986Z",
   "courses": [
     {
       "id": "16541a56-5fac-472d-8258-cfbfcfdfa256",
@@ -65,9 +65,9 @@
       "day": "18.11.2026",
       "time": "18:00–19:30 (90 Min.)",
       "location": "Gagelweg",
-      "bookingStatus": "available",
+      "bookingStatus": "full",
       "price": "12,00 €",
-      "remainingSpots": 1,
+      "remainingSpots": 0,
       "sortOrder": 50,
       "startsOn": "2026-11-18"
     },
@@ -95,7 +95,7 @@
       "location": "Gagelweg",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 2,
+      "remainingSpots": 1,
       "sortOrder": 70,
       "startsOn": "2026-11-25"
     },
@@ -123,7 +123,7 @@
       "location": "Gagelweg",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 2,
+      "remainingSpots": 1,
       "sortOrder": 90,
       "startsOn": "2026-12-02"
     },
@@ -151,7 +151,7 @@
       "location": "Gagelweg",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 2,
+      "remainingSpots": 1,
       "sortOrder": 110,
       "startsOn": "2026-12-09"
     },
@@ -179,7 +179,7 @@
       "location": "Gagelweg",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 2,
+      "remainingSpots": 1,
       "sortOrder": 130,
       "startsOn": "2026-12-16"
     }
