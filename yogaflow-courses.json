@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-14T11:01:34.118Z",
+  "syncedAt": "2026-09-14T12:01:44.726Z",
   "courses": [
     {
       "id": "16541a56-5fac-472d-8258-cfbfcfdfa256",
@@ -51,9 +51,9 @@
       "day": "17.11.2026",
       "time": "18:00–19:30 (90 Min.)",
       "location": "Gagelweg, Neuss",
-      "bookingStatus": "available",
+      "bookingStatus": "full",
       "price": "12,00 €",
-      "remainingSpots": 1,
+      "remainingSpots": 0,
       "sortOrder": 40,
       "startsOn": "2026-11-17"
     },
@@ -81,7 +81,7 @@
       "location": "Gagelweg, Neuss",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 2,
+      "remainingSpots": 1,
       "sortOrder": 60,
       "startsOn": "2026-11-24"
     },
@@ -107,9 +107,9 @@
       "day": "01.12.2026",
       "time": "18:00–19:30 (90 Min.)",
       "location": "Gagelweg, Neuss",
-      "bookingStatus": "available",
+      "bookingStatus": "full",
       "price": "12,00 €",
-      "remainingSpots": 1,
+      "remainingSpots": 0,
       "sortOrder": 80,
       "startsOn": "2026-12-01"
     },
@@ -135,9 +135,9 @@
       "day": "08.12.2026",
       "time": "18:00–19:30 (90 Min.)",
       "location": "Gagelweg, Neuss",
-      "bookingStatus": "available",
+      "bookingStatus": "full",
       "price": "12,00 €",
-      "remainingSpots": 1,
+      "remainingSpots": 0,
       "sortOrder": 100,
       "startsOn": "2026-12-08"
     },
@@ -163,9 +163,9 @@
       "day": "15.12.2026",
       "time": "18:00–19:30 (90 Min.)",
       "location": "Gagelweg, Neuss",
-      "bookingStatus": "available",
+      "bookingStatus": "full",
       "price": "12,00 €",
-      "remainingSpots": 1,
+      "remainingSpots": 0,
       "sortOrder": 120,
       "startsOn": "2026-12-15"
     },
