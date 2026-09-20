@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-20T11:01:27.174Z",
+  "syncedAt": "2026-09-20T12:01:22.187Z",
   "courses": [
     {
       "id": "16541a56-5fac-472d-8258-cfbfcfdfa256",
@@ -37,9 +37,9 @@
       "day": "13.10.2026",
       "time": "18:00–19:30 (90 Min.)",
       "location": "Gagelweg",
-      "bookingStatus": "available",
+      "bookingStatus": "full",
       "price": "12,00 €",
-      "remainingSpots": 1,
+      "remainingSpots": 0,
       "sortOrder": 30,
       "startsOn": "2026-10-13"
     },
