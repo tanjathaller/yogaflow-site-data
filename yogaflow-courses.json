@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-12T13:01:36.682Z",
+  "syncedAt": "2026-10-12T14:01:49.310Z",
   "courses": [
     {
       "id": "00cd410d-d74b-4d3c-b067-0cf891903662",
@@ -165,7 +165,7 @@
       "location": "Leichlingen",
       "bookingStatus": "available",
       "price": "109,00 €",
-      "remainingSpots": 2,
+      "remainingSpots": 1,
       "sortOrder": 120,
       "startsOn": "2027-01-10"
     }
