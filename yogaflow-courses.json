@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-01T16:52:26.228Z",
+  "syncedAt": "2026-11-01T21:17:32.704Z",
   "courses": [
     {
       "id": "ce279e80-2599-42d2-916f-0ed76da9e5e9",
@@ -145,12 +145,12 @@
       "id": "65ab97b9-5207-4b72-8788-57237b132595",
       "type": "internal",
       "title": "YOGA & AYURVEDA  (Tagesretreat)",
-      "description": "Gemeinsam bewegen - gemeinsam genießen!\nGanz nach diesem Motto werden wir einen ganzen Tag nur für uns haben. \n\nFür Anfänger und Fortgeschrittene geeignet.\n\nFrühbucher bis 01.11.2026. Danach 129,- Euro.",
+      "description": "Gemeinsam bewegen - gemeinsam genießen!\nGanz nach diesem Motto werden wir einen ganzen Tag nur für uns haben. \n\nFür Anfänger und Fortgeschrittene geeignet.",
       "day": "10.01.2027",
       "time": "09:00–17:00 (480 Min.)",
       "location": "Leichlingen",
       "bookingStatus": "full",
-      "price": "109,00 €",
+      "price": "129,00 €",
       "remainingSpots": 0,
       "sortOrder": 110,
       "startsOn": "2027-01-10"
