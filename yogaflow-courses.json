@@ -1,6 +1,20 @@
 {
-  "syncedAt": "2026-11-17T23:01:10.907Z",
+  "syncedAt": "2026-11-18T04:36:43.879Z",
   "courses": [
+    {
+      "id": "2691441e-3729-42f6-bc41-90646892d983",
+      "type": "internal",
+      "title": "Yoga am Mittwoch",
+      "description": "Vinyasa/Hatha Yoga für alle Level",
+      "day": "18.11.2026",
+      "time": "18:00–19:30 (90 Min.)",
+      "location": "Gagelweg",
+      "bookingStatus": "available",
+      "price": "12,00 €",
+      "remainingSpots": 1,
+      "sortOrder": 10,
+      "startsOn": "2026-11-18"
+    },
     {
       "id": "bd9d4300-d446-43b2-8730-3f742f294b43",
       "type": "internal",
@@ -12,7 +26,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 10,
+      "sortOrder": 20,
       "startsOn": "2026-11-24"
     },
     {
@@ -26,7 +40,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 1,
-      "sortOrder": 20,
+      "sortOrder": 30,
       "startsOn": "2026-11-25"
     },
     {
@@ -40,7 +54,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 30,
+      "sortOrder": 40,
       "startsOn": "2026-12-01"
     },
     {
@@ -54,7 +68,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 40,
+      "sortOrder": 50,
       "startsOn": "2026-12-02"
     },
     {
@@ -68,7 +82,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 1,
-      "sortOrder": 50,
+      "sortOrder": 60,
       "startsOn": "2026-12-08"
     },
     {
@@ -82,7 +96,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 60,
+      "sortOrder": 70,
       "startsOn": "2026-12-09"
     },
     {
@@ -96,7 +110,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 70,
+      "sortOrder": 80,
       "startsOn": "2026-12-15"
     },
     {
@@ -110,7 +124,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 80,
+      "sortOrder": 90,
       "startsOn": "2026-12-16"
     },
     {
@@ -124,7 +138,7 @@
       "bookingStatus": "full",
       "price": "129,00 €",
       "remainingSpots": 0,
-      "sortOrder": 90,
+      "sortOrder": 100,
       "startsOn": "2027-01-10"
     }
   ]
