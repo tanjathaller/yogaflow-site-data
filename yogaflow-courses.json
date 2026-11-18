@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-18T04:36:43.879Z",
+  "syncedAt": "2026-11-18T14:21:16.646Z",
   "courses": [
     {
       "id": "2691441e-3729-42f6-bc41-90646892d983",
@@ -65,9 +65,9 @@
       "day": "02.12.2026",
       "time": "18:00–19:30 (90 Min.)",
       "location": "Gagelweg",
-      "bookingStatus": "full",
+      "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 0,
+      "remainingSpots": 1,
       "sortOrder": 50,
       "startsOn": "2026-12-02"
     },
