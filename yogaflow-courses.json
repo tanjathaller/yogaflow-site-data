@@ -1,20 +1,6 @@
 {
-  "syncedAt": "2026-11-25T08:54:47.676Z",
+  "syncedAt": "2026-11-25T19:28:14.720Z",
   "courses": [
-    {
-      "id": "c829507d-4dda-425b-a0db-dffd8c35306c",
-      "type": "internal",
-      "title": "Yoga am Mittwoch",
-      "description": "Vinyasa/Hatha Yoga für alle Level",
-      "day": "25.11.2026",
-      "time": "18:00–19:30 (90 Min.)",
-      "location": "Gagelweg",
-      "bookingStatus": "available",
-      "price": "12,00 €",
-      "remainingSpots": 2,
-      "sortOrder": 10,
-      "startsOn": "2026-11-25"
-    },
     {
       "id": "e36a3d8b-2ed2-4625-b811-4781e468a0a0",
       "type": "internal",
@@ -26,7 +12,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 20,
+      "sortOrder": 10,
       "startsOn": "2026-12-01"
     },
     {
@@ -40,7 +26,7 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 1,
-      "sortOrder": 30,
+      "sortOrder": 20,
       "startsOn": "2026-12-02"
     },
     {
@@ -54,7 +40,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 40,
+      "sortOrder": 30,
       "startsOn": "2026-12-08"
     },
     {
@@ -68,7 +54,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 50,
+      "sortOrder": 40,
       "startsOn": "2026-12-09"
     },
     {
@@ -82,7 +68,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 60,
+      "sortOrder": 50,
       "startsOn": "2026-12-15"
     },
     {
@@ -96,7 +82,7 @@
       "bookingStatus": "full",
       "price": "12,00 €",
       "remainingSpots": 0,
-      "sortOrder": 70,
+      "sortOrder": 60,
       "startsOn": "2026-12-16"
     },
     {
@@ -110,7 +96,7 @@
       "bookingStatus": "full",
       "price": "129,00 €",
       "remainingSpots": 0,
-      "sortOrder": 80,
+      "sortOrder": 70,
       "startsOn": "2027-01-10"
     }
   ]
